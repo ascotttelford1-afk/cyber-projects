@@ -20,4 +20,5 @@
 
 ## | Next steps |
    | My steps are to continue on the OverTheWire Bandit challenges. |
+   
    | Each time I will start from the very beginning
