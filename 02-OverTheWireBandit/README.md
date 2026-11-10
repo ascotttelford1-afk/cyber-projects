@@ -1,6 +1,6 @@
 # | OverTheWire Bandit |
 # | Description: OverTheWire Bandit is an online educational platform for cyber security. For more information visit: https://overthewire.org/wargames/bandit/ |
-  | Project Number: 02 | Date: Started 10/11/2026 | Tools: CLI Git Bash |
+  | Project No. 02 | Date: Started 10/11/2026 | Tools: CLI Git Bash |
   | Progress: Level 0-1 Completed |
 
 ## | Goal |
